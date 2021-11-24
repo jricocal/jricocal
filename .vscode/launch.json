@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "name": "simple_sample_1",
+            "cwd": "ejemplos_layout_theme\\simple_sample_1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "simple_sample_1 (profile mode)",
+            "cwd": "ejemplos_layout_theme\\simple_sample_1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "simple_sample_2",
+            "cwd": "ejemplos_layout_theme\\simple_sample_2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "simple_sample_2 (profile mode)",
+            "cwd": "ejemplos_layout_theme\\simple_sample_2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "simple_sample_3",
+            "cwd": "ejemplos_layout_theme\\simple_sample_3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "simple_sample_3 (profile mode)",
+            "cwd": "ejemplos_layout_theme\\simple_sample_3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
